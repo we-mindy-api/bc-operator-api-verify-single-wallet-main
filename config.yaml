@@ -1,0 +1,21 @@
+# wallettype: single
+# server: https://op.awgstudio.com/api
+# token: 1ad6648e60c44972af14e346025c2533
+# operatorid: wbhrkvj0
+# secret: pE5ZjmYz0KBoGDVTviCm2cOpfwEiKbBpLdSLbRs02AQ=
+# playerid: willis
+
+bettype: BANKER
+gamestatuswin: win
+gamestatusloss: loss
+gameresult: BANKER
+gameid:  STUDIO-BAA-1
+
+amount: 100
+amount_2: 200
+amount_3: 200
+currency: PHP
+colormode: true
+fileoutput: true
+ip : 172.0.0.1
+odds : 0.95
